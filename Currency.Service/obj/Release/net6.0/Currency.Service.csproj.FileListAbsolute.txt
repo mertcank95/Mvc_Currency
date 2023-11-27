@@ -1,0 +1,17 @@
+C:\dotnet_project\CurrencyApp\Currency.Service\bin\Release\net6.0\Currency.Service.deps.json
+C:\dotnet_project\CurrencyApp\Currency.Service\bin\Release\net6.0\Currency.Service.dll
+C:\dotnet_project\CurrencyApp\Currency.Service\bin\Release\net6.0\Currency.Service.pdb
+C:\dotnet_project\CurrencyApp\Currency.Service\bin\Release\net6.0\Currency.Entities.dll
+C:\dotnet_project\CurrencyApp\Currency.Service\bin\Release\net6.0\Currency.Repository.dll
+C:\dotnet_project\CurrencyApp\Currency.Service\bin\Release\net6.0\Currency.Entities.pdb
+C:\dotnet_project\CurrencyApp\Currency.Service\bin\Release\net6.0\Currency.Repository.pdb
+C:\dotnet_project\CurrencyApp\Currency.Service\obj\Release\net6.0\Currency.Service.csproj.AssemblyReference.cache
+C:\dotnet_project\CurrencyApp\Currency.Service\obj\Release\net6.0\Currency.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet_project\CurrencyApp\Currency.Service\obj\Release\net6.0\Currency.Service.AssemblyInfoInputs.cache
+C:\dotnet_project\CurrencyApp\Currency.Service\obj\Release\net6.0\Currency.Service.AssemblyInfo.cs
+C:\dotnet_project\CurrencyApp\Currency.Service\obj\Release\net6.0\Currency.Service.csproj.CoreCompileInputs.cache
+C:\dotnet_project\CurrencyApp\Currency.Service\obj\Release\net6.0\Currency.Service.csproj.CopyComplete
+C:\dotnet_project\CurrencyApp\Currency.Service\obj\Release\net6.0\Currency.Service.dll
+C:\dotnet_project\CurrencyApp\Currency.Service\obj\Release\net6.0\refint\Currency.Service.dll
+C:\dotnet_project\CurrencyApp\Currency.Service\obj\Release\net6.0\Currency.Service.pdb
+C:\dotnet_project\CurrencyApp\Currency.Service\obj\Release\net6.0\ref\Currency.Service.dll

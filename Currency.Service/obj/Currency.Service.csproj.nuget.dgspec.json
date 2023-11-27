@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dotnet_project\\CurrencyApp\\Currency.Service\\Currency.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\dotnet_project\\CurrencyApp\\Currency.Entities\\Currency.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dotnet_project\\CurrencyApp\\Currency.Entities\\Currency.Entities.csproj",
+        "projectName": "Currency.Entities",
+        "projectPath": "C:\\dotnet_project\\CurrencyApp\\Currency.Entities\\Currency.Entities.csproj",
+        "packagesPath": "C:\\Users\\kirat\\.nuget\\packages\\",
+        "outputPath": "C:\\dotnet_project\\CurrencyApp\\Currency.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kirat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dotnet_project\\CurrencyApp\\Currency.Repository\\Currency.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dotnet_project\\CurrencyApp\\Currency.Repository\\Currency.Repository.csproj",
+        "projectName": "Currency.Repository",
+        "projectPath": "C:\\dotnet_project\\CurrencyApp\\Currency.Repository\\Currency.Repository.csproj",
+        "packagesPath": "C:\\Users\\kirat\\.nuget\\packages\\",
+        "outputPath": "C:\\dotnet_project\\CurrencyApp\\Currency.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kirat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\dotnet_project\\CurrencyApp\\Currency.Entities\\Currency.Entities.csproj": {
+                "projectPath": "C:\\dotnet_project\\CurrencyApp\\Currency.Entities\\Currency.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dotnet_project\\CurrencyApp\\Currency.Service\\Currency.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dotnet_project\\CurrencyApp\\Currency.Service\\Currency.Service.csproj",
+        "projectName": "Currency.Service",
+        "projectPath": "C:\\dotnet_project\\CurrencyApp\\Currency.Service\\Currency.Service.csproj",
+        "packagesPath": "C:\\Users\\kirat\\.nuget\\packages\\",
+        "outputPath": "C:\\dotnet_project\\CurrencyApp\\Currency.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kirat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\dotnet_project\\CurrencyApp\\Currency.Entities\\Currency.Entities.csproj": {
+                "projectPath": "C:\\dotnet_project\\CurrencyApp\\Currency.Entities\\Currency.Entities.csproj"
+              },
+              "C:\\dotnet_project\\CurrencyApp\\Currency.Repository\\Currency.Repository.csproj": {
+                "projectPath": "C:\\dotnet_project\\CurrencyApp\\Currency.Repository\\Currency.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

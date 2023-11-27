@@ -1,0 +1,12 @@
+C:\dotnet_project\CurrencyApp\Currency.Entities\bin\Debug\net6.0\Currency.Entities.deps.json
+C:\dotnet_project\CurrencyApp\Currency.Entities\bin\Debug\net6.0\Currency.Entities.dll
+C:\dotnet_project\CurrencyApp\Currency.Entities\bin\Debug\net6.0\Currency.Entities.pdb
+C:\dotnet_project\CurrencyApp\Currency.Entities\obj\Debug\net6.0\Currency.Entities.csproj.AssemblyReference.cache
+C:\dotnet_project\CurrencyApp\Currency.Entities\obj\Debug\net6.0\Currency.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet_project\CurrencyApp\Currency.Entities\obj\Debug\net6.0\Currency.Entities.AssemblyInfoInputs.cache
+C:\dotnet_project\CurrencyApp\Currency.Entities\obj\Debug\net6.0\Currency.Entities.AssemblyInfo.cs
+C:\dotnet_project\CurrencyApp\Currency.Entities\obj\Debug\net6.0\Currency.Entities.csproj.CoreCompileInputs.cache
+C:\dotnet_project\CurrencyApp\Currency.Entities\obj\Debug\net6.0\Currency.Entities.dll
+C:\dotnet_project\CurrencyApp\Currency.Entities\obj\Debug\net6.0\refint\Currency.Entities.dll
+C:\dotnet_project\CurrencyApp\Currency.Entities\obj\Debug\net6.0\Currency.Entities.pdb
+C:\dotnet_project\CurrencyApp\Currency.Entities\obj\Debug\net6.0\ref\Currency.Entities.dll
